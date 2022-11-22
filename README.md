@@ -1,4 +1,4 @@
-# LP - PS4 V2 Dualshock
+# Music Website
 
 ![preview](./.github/preview.png)
 
