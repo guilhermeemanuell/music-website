@@ -9,7 +9,7 @@ Para abrir em nova aba:
 - segure a tecla "Ctrl" e clique com botão esquerdo do mouse, ou;
 - clique com o botão de "scroll" do mouse.
 
-🔗 [Clique aqui para visualizar e interagir com o meu projeto.](https://guilhermeemanuell.github.io/lp-ps4-dualshock/)
+🔗 [Clique aqui para visualizar e interagir com o meu projeto.](https://guilhermeemanuell.github.io/music-website/)
 
 ## 🛠 Tecnologias
 
